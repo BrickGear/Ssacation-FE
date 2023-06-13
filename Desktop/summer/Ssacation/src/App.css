@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.button{
+  background-color:rgb(189, 181, 181);
+  color: black;
+  font-weight: bold;
+  width: 180px;
+  height: 45px;
+}
+
+.img{
+  width: 180px;
+  height: 45px;
+}
